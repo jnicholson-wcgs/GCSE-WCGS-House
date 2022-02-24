@@ -1,0 +1,3 @@
+run="sqlite3 -init main.sql"
+language="sqlite3"
+onBoot="Go Woodcote, Go"
